@@ -3,3 +3,4 @@
 ###The columns are then named with the appropriate names
 ###The means of each column are then taken for each subject for each activity
 ###The .R script contains more detailed information at each step of the process
+###The final output of the script will be data_averaged.txt
