@@ -1,4 +1,4 @@
-Below is a list of all the columns found in the dataset.
+Below is a list of all the columns found in the dataset (data_averaged.txt).
 The subject column is each subject in the experiment
 The activity column is one of 6 options (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING)
 The different measurements are represented in the remainder of the columns. Measurements may have an X, Y, or Z direction
